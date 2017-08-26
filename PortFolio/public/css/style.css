@@ -1,0 +1,160 @@
+#bg{
+    width: 100%;
+    height: auto;
+     /* opacity: .;  */
+     /* color: black; */
+}
+a:hover{
+    text-decoration: none;
+  
+}
+
+
+#intro
+{
+    position: absolute;
+    top: 280px;
+     left: 140px; 
+     color: rgb(255, 255, 255);
+     text-shadow: 2px 2px 20px black; 
+    font-size: 55px;
+    line-height: 60px;
+    text-align: center;
+     transition: .1s ease; 
+}
+    .btn{
+    position: absolute;
+    top: 490px;
+    left: 390px;
+    padding: 15px;
+    border: 2px solid orange;
+    border-radius: 60px;
+    background:none; 
+    font-size: 17px;
+    font-weight: bold; 
+    color: white;
+    }
+    .btn:hover{
+    /* padding:  20px 20px;   */
+    background-color: orange; 
+    transition:all 0.5s ease;
+    /* color: white;    */
+    /* padding: 20px;    */
+    }
+.more{
+    margin: 0 auto;
+    text-align: center; 
+    position: absolute;
+    top: 640px;
+    left: 380px;
+    font-size: 25px; 
+    color: whitesmoke;
+    }
+.expertise{
+    padding: 60px;
+    /* margin: 20px; */
+    color: darkgray;
+    }
+    .expertise p{
+    font-size: 18px;
+    text-align: center;
+    line-height: 29px;
+    }
+    .expertise , .work h2,h3{
+    text-align: center;
+    }
+    .expertise > h3{
+    color: gray; 
+    }
+
+    .expertise img{
+    /* text-align: center; */
+    /* padding: 20px 20px 20px 20px; */
+    margin: 50px;
+    margin-left: 50px;
+    }
+    .bold{
+    /* margin-top: -30px;  */
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    }
+    #uiux{
+    margin-top: 25px;
+    }
+
+    .work{
+    padding: 60px; 
+    /* margin: 0px 60px; */
+    /* margin: 20px;   */
+    background-color: #eee;   
+    }
+    .work > h3{
+    color: gray;
+    }
+    .work img {
+    /* margin :30px;  */
+    padding:  10px; 
+    width: auto; 
+    height:200px; 
+    /* opacity: .5; */
+    margin: 20px; 
+    }
+    .title{
+    position: absolute;
+    top: 80px; 
+    left: 80px; 
+
+    }
+    .links img{
+    position: relative;
+    right: -200px;
+    width: 50px;
+    height: 50px;
+    }
+    footer{
+    line-height: 30px;
+    padding: 30px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    }
+    #black{
+        z-index: 0;
+    position: absolute;
+    top: 0px;
+    opacity: .5;
+    width: 1800px;
+    height: 745px;
+    background-color: black;
+    }
+.s{
+    /* width: 300px;
+    height: 400px; */
+}
+footer p{
+    font-size: 19px;
+}
+
+#arrow{
+    position: relative;
+    top: -60px;
+    left: 46%;
+    width: 40px;
+    
+}
+#e{
+    /* position: absolute; */
+    top: 10px;
+    left: 50px;
+}
+#r{
+    /* position: absolute; */
+    top: 10px;
+    left: 180px;
+}
+#p{
+    /* position: absolute; */
+    top: 10px;
+    left: 300px;
+}
